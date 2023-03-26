@@ -2,7 +2,7 @@
 <h3 align="center"> IT student with a passion for .NET development. <br />Proficient in SQL, C#, JavaScript, HTML, and CSS. Currently studying at University of Lodz <br /> and seeking for internship opportunities to gain a real-world experience and expand my skills. </h3>
 
 - 🌱 I’m currently learning .NET / REACT 
-- 📫 You can reach me with my mail: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" align="center" height="30" width="40">](menkarol27@gmail.com) 
+- 📫 You can reach me with my mail ([here](menkarol27@gmail.com))
 - 👨‍💻 On this github I am posting my recent projects, feel free to check on them  
 - ☕ Morning Coffee enjoyer <br/>
 <h3 align="left">  My public IT socials:  <br/> </h3>
@@ -19,9 +19,11 @@
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" height="40" width="40"></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" height="40" width="40"></a>
 </p>
-<p align="left">
-  My other communities that I am using <br/>
+<h4 align="left"> My other communities that I am using: <br/> </h4>
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21299329/mendi"><img src='https://user-images.githubusercontent.com/48441751/227781243-8be2f635-895c-4ca3-a058-4b35ea8bbeb8.png' alt='stackoverflow' height='40'> </a>  
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M3ND1&show_icons=true&locale=en&layout=compact&theme=dark" alt="mendi" /></p>
-<p align="left"><img src="https://gpvc.arturio.dev/M3ND1" alt="Profile views" /></p>
+<div>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M3ND1&show_icons=true&locale=en&layout=compact&theme=dark" alt="mendi" /></p>
+  <p><img src="https://gpvc.arturio.dev/M3ND1" alt="Profile views" style="display-block;" /></p>
+</div>
+  

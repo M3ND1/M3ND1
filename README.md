@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning .NET / REACT 
 - 📫 You can reach me with my mail ([here](mailto:menkarol27@gmail.com))
 - 👨‍💻 On this github I am posting my recent projects, feel free to check on them  
-- ☕ Morning Coffee enjoyer <br/>
+- ☕ Morning Coffee enjoyer 🙂 <br/>
 <h3 align="left">  My public IT socials:  <br/> </h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/karol-mendala-903750231/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="rahuldkjain" height="30" width="40" /></a>

@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, My name is Karol </h1>
 <h3 align="center"> IT student with a passion for .NET development. <br />Proficient in SQL, C#, JavaScript, HTML, and CSS. Currently studying at University of Lodz <br /> and seeking for internship opportunities to gain a real-world experience and expand my skills. </h3>
 
-Skills: .NET / C# / SQL / C++ / JavaScript / HTML/CSS
-
 - 🌱 I’m currently learning .NET / REACT 
 - 📫 How to reach me: <br/>
 <p align="left">
@@ -12,6 +10,9 @@ Skills: .NET / C# / SQL / C++ / JavaScript / HTML/CSS
 <p align="left">
   Languages and Tools that I am using: <br/>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" align="center" height="40" width="40"></a>
+  <a><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" align="center" height="40" width="40"></a>
+  <a><img src="https://cdn.worldvectorlogo.com/logos/c.svg" align="center" height="40" width="40"></a>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" align="center" height="40" width="40"></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" height="40" width="40"></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" height="40" width="40"></a>
 </p>

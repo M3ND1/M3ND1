@@ -7,7 +7,6 @@
 - ☕ Morning Coffee enjoyer <br/>
 <h3 align="left">  My public IT socials:  <br/> </h3>
 <p align="left">
-  <a href="https://twitter.com/HereMendi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="rahuldkjain" height="30" width="40" style="margin-left:5px;" /></a>
   <a href="https://www.linkedin.com/in/karol-mendala-903750231/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="rahuldkjain" height="30" width="40" /></a>
 </p>
 <h3 align="left">  Languages and Tools that I am using: <br/> </h3>

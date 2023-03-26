@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, My name is Karol </h1>
-<h3 align="center"> IT student with a passion for .NET development. <br />Proficient in SQL, C#, JavaScript, HTML, and CSS. Currently studying at University of Lodz <br /> and seeking for internship opportunities to gain a real-world experience and expand my skills. </h3>
+<h3 align="center"> I am an IT student with a passion for .NET development, currently studying at the University of Lodz. My areas of focus include SQL, C#, JavaScript, HTML, and CSS. In addition, I have experience in C++ and have completed small univeristy projects in this language. I am seeking internship opportunities to gain more experience and expand my skills. </h3>
 
 - 🌱 I’m currently learning .NET / REACT 
 - 📫 You can reach me with my mail ([here](menkarol27@gmail.com))

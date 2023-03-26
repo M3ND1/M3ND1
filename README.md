@@ -1,21 +1,31 @@
-### <p align="center" >Hi there 👋, My name is **Karol** </p>
----
-#### <p align="center"> IT student with a passion for .NET development. Proficient in SQL, C#, JavaScript, HTML, and CSS. Seeking internship opportunities to gain real-world experience and expand my skills. </p>
+<h1 align="center">Hi there 👋, My name is Karol </h1>
+<h3 align="center"> IT student with a passion for .NET development. <br />Proficient in SQL, C#, JavaScript, HTML, and CSS. Currently studying at University of Lodz <br /> and seeking for internship opportunities to gain a real-world experience and expand my skills. </h3>
 
 Skills: .NET / C# / SQL / C++ / JavaScript / HTML/CSS
 
 - 🌱 I’m currently learning .NET / REACT 
 - 📫 How to reach me: <br/>
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt='twitter' height='20'>](https://www.linkedin.com/in/karol-mendala-903750231/) [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='20' style="margin-top:4px;">](https://www.linkedin.com/in/https://www.linkedin.com/in/karol-mendala-903750231//)
-
-
+<p align="left">
+  <a href="https://twitter.com/HereMendi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="rahuldkjain" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/karol-mendala-903750231/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="rahuldkjain" height="30" width="40" /></a>
+</p>
+<p align="left">
+  Languages and Tools that I am using: <br/>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" align="center" height="40" width="40"></a>
+  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" height="40" width="40"></a>
+  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" height="40" width="40"></a>
+</p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=M3ND1&show_icons=true)  
 
+
+
+<p align="left">
+  My other communities that I am using <br/>
+
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21299329/mendi"><img src='https://user-images.githubusercontent.com/48441751/227781243-8be2f635-895c-4ca3-a058-4b35ea8bbeb8.png' alt='stackoverflow' height='40'> </a>  
+</p>
+
 ![Profile views](https://gpvc.arturio.dev/M3ND1)  
-
-
-[<img src='https://icon-library.com/images/github-svg-icon/github-svg-icon-3.jpg' alt='github' height='40'>](https://github.com/M3ND1) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/21299329/mendi)  
 <!--
 **M3ND1/M3ND1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -19,28 +19,9 @@
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" height="40" width="40"></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" height="40" width="40"></a>
 </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=M3ND1&show_icons=true)  
-
-
-
 <p align="left">
   My other communities that I am using <br/>
-
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21299329/mendi"><img src='https://user-images.githubusercontent.com/48441751/227781243-8be2f635-895c-4ca3-a058-4b35ea8bbeb8.png' alt='stackoverflow' height='40'> </a>  
 </p>
-
-![Profile views](https://gpvc.arturio.dev/M3ND1)  
-<!--
-**M3ND1/M3ND1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M3ND1&show_icons=true&locale=en&layout=compact&theme=dark" alt="mendi" /></p>
+<p align="left"><img src="https://gpvc.arturio.dev/M3ND1" alt="Profile views" /></p>

@@ -2,13 +2,16 @@
 <h3 align="center"> IT student with a passion for .NET development. <br />Proficient in SQL, C#, JavaScript, HTML, and CSS. Currently studying at University of Lodz <br /> and seeking for internship opportunities to gain a real-world experience and expand my skills. </h3>
 
 - 🌱 I’m currently learning .NET / REACT 
-- 📫 How to reach me: <br/>
+- 📫 You can reach me with my mail: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" align="center" height="30" width="40">](menkarol27@gmail.com) 
+- 👨‍💻 On this github I am posting my recent projects, feel free to check on them  
+- ☕ Morning Coffee enjoyer <br/>
+<h3 align="left">  My public IT socials:  <br/> </h3>
 <p align="left">
-  <a href="https://twitter.com/HereMendi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="rahuldkjain" height="30" width="40" /></a>
+  <a href="https://twitter.com/HereMendi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="rahuldkjain" height="30" width="40" style="margin-left:5px;" /></a>
   <a href="https://www.linkedin.com/in/karol-mendala-903750231/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="rahuldkjain" height="30" width="40" /></a>
 </p>
-<p align="left">
-  Languages and Tools that I am using: <br/>
+<h3 align="left">  Languages and Tools that I am using: <br/> </h3>
+  <p align="left">
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" align="center" height="40" width="40"></a>
   <a><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" align="center" height="40" width="40"></a>
   <a><img src="https://cdn.worldvectorlogo.com/logos/c.svg" align="center" height="40" width="40"></a>

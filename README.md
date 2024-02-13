@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, My name is Karol </h1>
-<h3 align="center"> I am an IT student with a passion for .NET development, currently studying at the University of Lodz. My areas of focus include SQL, C#, JavaScript, HTML, and CSS. In addition, I have experience in C++ and have completed small univeristy projects in this language. I am seeking internship opportunities to gain more experience and expand my skills. </h3>
+<h3 align="center"> I am an IT student with a passion for .NET development, currently studying at the University of Lodz. My areas of focus include SQL, C#, JavaScript, HTML, and CSS. In addition, I have experience in C++ and have completed small univeristy projects in this language. I always seek for new opportunities to gain more experience and expand my skills. </h3>
 
 - 🌱 I currently work on an engineering thesis in WPF framework (I try my best to stick to MVVM pattern xD)
 - 💻 I also work for an IT company as a junior developer, maintaining big project (.NET/Angular).

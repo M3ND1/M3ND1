@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, My name is Karol </h1>
-<h3 align="center"> I am an IT student with a passion for .NET development, currently studying at the University of Lodz. My areas of focus include SQL, C#, JavaScript, HTML, and CSS. In addition, I have experience in C++ and have completed small univeristy projects in this language. I always seek for new opportunities to gain more experience and expand my skills. </h3>
+<h3 align="center"> I am an IT student with a passion for .NET development, currently studying at the Jagiellonian Univeristy in Cracow and working as Junior Fullstack Developer (.Net/Angular). I always seek for new opportunities to gain more experience and expand my skills. </h3>
 
-- 🌱 I currently work on an engineering thesis in WPF framework (I try my best to stick to MVVM pattern xD)
-- 💻 I also work for an IT company as a junior developer, maintaining big project (.NET/Angular).
+- 💻 I work for an IT company as a junior developer, maintaining and developing big project (.NET/Angular).
 - 📫 You can reach me with my mail here: menkarol27@gmail.com 
-- 👨‍💻 On this github I am posting my recent projects, feel free to check on them  
+- 👨‍💻 On this github I am posting my recent private projects same as university projects, feel free to check on them  
 - ☕ Morning Coffee enjoyer 🙂 <br/>
 <h3 align="left">  My public IT socials:  <br/> </h3>
 <p align="left">

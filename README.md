@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, My name is Karol </h1>
-<h3 align="center"> I am an IT student with a passion for .NET development, currently studying at the Jagiellonian Univeristy in Cracow and working as Junior Fullstack Developer (.Net/Angular). I always seek for new opportunities to gain more experience and expand my skills. </h3>
+<h3 align="center"> I am an IT student with a passion for .NET development, working as Junior Fullstack Developer (.Net/Angular). I always seek for new opportunities to gain more experience and expand my skills. </h3>
 
 - 💻 I work for an IT company as a junior developer, maintaining and developing big project (.NET/Angular).
 - 📫 You can reach me with my mail here: menkarol27@gmail.com 

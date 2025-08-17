@@ -1,12 +1,14 @@
 <h1 align="center">Hi there 👋, My name is Karol </h1>
-<h3 align="center"> I am an IT student with a passion for .NET development, working as Junior Fullstack Developer (.Net/Angular). I always seek for new opportunities to gain more experience and expand my skills. </h3>
+<h3 align="center">
+  I am a Junior Fullstack Developer (.NET/Angular) passionate about building scalable applications. <br>
+  I am constantly looking for opportunities to gain new experience and expand my skill set.
+</h3>
 
-- 💻 I work for an IT company as a junior developer, maintaining and developing big project (.NET/Angular).
-- 📫 You can reach me with my mail here: menkarol27@gmail.com 
-- 👨‍💻 On this github I am posting my recent private projects same as university projects, feel free to check on them  
-- ☕ Morning Coffee enjoyer 🙂 <br/>
-<h3 align="left">  My public IT socials:  <br/> </h3>
-<p align="left">
+- 💻 Currently maintaining and developing a large invoicing system used across multiple regions  
+- 📫 You can reach me at: **menkarol27@gmail.com**  
+- 👨‍💻 Here on GitHub I share my personal projects as well as selected university work — feel free to explore </br>
+<h4>Check my linkedin</h4>
+<p align="left"> 
   <a href="https://www.linkedin.com/in/karol-mendala-903750231/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="rahuldkjain" height="30" width="40" /></a>
 </p>
 <h3 align="left">  Languages and Tools that I am using: <br/> </h3>

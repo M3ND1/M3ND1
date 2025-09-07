@@ -1,10 +1,9 @@
-<h1 align="center">Hi there 👋, My name is Karol </h1>
+<h1 align="center">Hi there 👋 </h1>
 <h3 align="center">
   I am a Junior Fullstack Developer (.NET/Angular) passionate about building scalable applications. <br>
   I am constantly looking for opportunities to gain new experience and expand my skill set.
 </h3>
 
-- 💻 Currently maintaining and developing a large invoicing system used across multiple regions  
 - 📫 You can reach me at: **menkarol27@gmail.com**  
 - 👨‍💻 Here on GitHub I share my personal projects as well as selected university work — feel free to explore </br>
 <h4>Check my linkedin</h4>

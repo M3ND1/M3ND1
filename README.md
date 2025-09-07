@@ -24,6 +24,5 @@
 </p>
 <div>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M3ND1&show_icons=true&locale=en&layout=compact&theme=dark" alt="mendi" /></p>
-  <p><img src="https://gpvc.arturio.dev/M3ND1" alt="Profile views" style="display-block;" /></p>
 </div>
   

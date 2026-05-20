@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in//" target="_blank">
+    <a href="https://www.linkedin.com/in/mendalak/" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="28" width="28" alt="LinkedIn" />
     </a>
     &nbsp;
